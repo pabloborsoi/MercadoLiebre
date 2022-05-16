@@ -1,0 +1,11 @@
+body{
+    background-color: #ededed;
+    margin:0px;
+}
+
+.contenedor-padre{
+    display:flex;
+    height:50vh;
+    width:100%;
+}
+
